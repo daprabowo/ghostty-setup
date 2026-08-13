@@ -1,0 +1,16 @@
+# Stow Ignore
+^\.stow-local-ignore$
+
+# Makefile
+^Makefile$
+
+# Git
+^\.git$
+^\.gitignore$
+
+# MacOS Finder
+^\.DS_Store$
+
+# Docs
+^README\.md$
+^LICENSE$
