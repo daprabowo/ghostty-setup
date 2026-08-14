@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gruvbox-dark-hard" width="50%">
+  <img src="assets/gruvbox-dark-hard.png" width="50%">
 </p>
 
 A minimal yet highly aesthetic `ghostty` terminal setup focused on **visual candy**, **custom shaders**, and a **clean gruvbox theme**.
