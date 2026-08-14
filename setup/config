@@ -1,0 +1,63 @@
+# --- Themes ---
+theme = light:Gruvbox Light,dark:Gruvbox Dark Hard
+
+# --- Background ---
+background-opacity = 0.85
+background-blur = true
+# background-image = ~/.config/ghostty/images/L6G1Ips-dark.png
+# background-image-opacity = 0.25
+# background-image-fit = stretch
+
+# --- App Icon ---
+macos-icon = custom
+macos-custom-icon = ~/.config/ghostty/icons/gruvbox-dark-hard.icns
+
+# --- Cursor ---
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
+# --- Shaders ---
+# custom-shader = ~/.config/ghostty/shaders/animated-gradient-shader.glsl
+# custom-shader = ~/.config/ghostty/shaders/bettercrt.glsl
+# custom-shader = ~/.config/ghostty/shaders/galaxy.glsl
+# custom-shader = ~/.config/ghostty/shaders/bloom.glsl
+# custom-shader = ~/.config/ghostty/shaders/cineShader-Lava.glsl
+# custom-shader = ~/.config/ghostty/shaders/crt.glsl
+# custom-shader = ~/.config/ghostty/shaders/cubes.glsl
+# custom-shader = ~/.config/ghostty/shaders/cursor_blaze.glsl
+# custom-shader = ~/.config/ghostty/shaders/cursor_lightning.glsl
+# custom-shader = ~/.config/ghostty/shaders/cursor_sweep.glsl
+# custom-shader = ~/.config/ghostty/shaders/cursor_tail.glsl
+custom-shader = ~/.config/ghostty/shaders/cursor_warp.glsl
+# custom-shader = ~/.config/ghostty/shaders/dither.glsl
+# custom-shader = ~/.config/ghostty/shaders/drunkard.glsl
+# custom-shader = ~/.config/ghostty/shaders/fireworks-rockets.glsl
+# custom-shader = ~/.config/ghostty/shaders/fireworks.glsl
+# custom-shader = ~/.config/ghostty/shaders/gears-and-belts.glsl
+# custom-shader = ~/.config/ghostty/shaders/glitchy.glsl
+# custom-shader = ~/.config/ghostty/shaders/glow-rgbsplit-twitchy.glsl
+# custom-shader = ~/.config/ghostty/shaders/gradient-background.glsl
+# custom-shader = ~/.config/ghostty/shaders/in-game-crt-cursor.glsl
+# custom-shader = ~/.config/ghostty/shaders/in-game-crt.glsl
+# custom-shader = ~/.config/ghostty/shaders/inside-the-matrix.glsl
+# custom-shader = ~/.config/ghostty/shaders/just-snow.glsl
+# custom-shader = ~/.config/ghostty/shaders/matrix-hallway.glsl
+# custom-shader = ~/.config/ghostty/shaders/mnoise.glsl
+# custom-shader = ~/.config/ghostty/shaders/negative.glsl
+# custom-shader = ~/.config/ghostty/shaders/rectangle_boom_cursor.glsl
+# custom-shader = ~/.config/ghostty/shaders/retro-terminal.glsl
+# custom-shader = ~/.config/ghostty/shaders/ripple_cursor.glsl
+# custom-shader = ~/.config/ghostty/shaders/ripple_rectangle_cursor.glsl
+# custom-shader = ~/.config/ghostty/shaders/sin-interference.glsl
+# custom-shader = ~/.config/ghostty/shaders/smear_cursor_blocks.glsl
+# custom-shader = ~/.config/ghostty/shaders/smoke-and-ghost.glsl
+# custom-shader = ~/.config/ghostty/shaders/sonic_boom_cursor.glsl
+# custom-shader = ~/.config/ghostty/shaders/sparks-from-fire.glsl
+# custom-shader = ~/.config/ghostty/shaders/spotlight.glsl
+# custom-shader = ~/.config/ghostty/shaders/starfield-colors.glsl
+# custom-shader = ~/.config/ghostty/shaders/starfield.glsl
+# custom-shader = ~/.config/ghostty/shaders/tft.glsl
+# custom-shader = ~/.config/ghostty/shaders/underwater.glsl
+# custom-shader = ~/.config/ghostty/shaders/vhs.glsl
+# custom-shader = ~/.config/ghostty/shaders/water.glsl
