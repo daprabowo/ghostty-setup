@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gruvbox-dark-hard.png" alt="Logo" width="128">
+  <img src="assets/ghostty.png" alt="Logo" width="128">
 </p>
 
 # Ghostty Setup
@@ -63,7 +63,7 @@ make link
 
 ## Screenshots
 
-![Screenshot](assets/ghostty.png)
+![Screenshot](assets/screenshot.png)
 
 ## License
 
