@@ -3,11 +3,11 @@
 link:
 	@echo "🔗 Linking 'setup' to $(HOME)/.config/ghostty..."
 	@mkdir -p ~/.config/ghostty
-	@stow --adopt -t ~/.config/ghostty -S .
+	@stow -t ~/.config/ghostty setup
 
 unlink:
 	@echo "❌ Unlinking 'setup' from $(HOME)/.config/ghostty..."
-	@stow -D -t ~/.config/ghostty .
+	@stow -D -t ~/.config/ghostty setup
 
 help:
 	@echo "📦 Usage:"

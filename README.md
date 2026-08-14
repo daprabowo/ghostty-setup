@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/gruvbox-dark-hard.png" width="50%">
+  <img src="assets/gruvbox-dark-hard.png" alt="Logo" width="128">
 </p>
+
+# Ghostty Setup
 
 A minimal yet highly aesthetic `ghostty` terminal setup focused on **visual candy**, **custom shaders**, and a **clean gruvbox theme**.
 
@@ -63,6 +65,6 @@ make link
 
 ![Screenshot](assets/ghostty.png)
 
-## 📄 License
+## License
 
 MIT License. Feel free to use, fork, and modify.
